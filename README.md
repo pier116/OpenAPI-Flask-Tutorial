@@ -6,6 +6,7 @@ This code is for the OpenAI API Flask tutorial for Hacklahoma 2024!
 
 ## LinkedIn
 Gabe Chavez: https://www.linkedin.com/in/r-gabe-chavez/
+
 Jacob Pierce: https://www.linkedin.com/in/jacobpiercepage/
 
 # Installation

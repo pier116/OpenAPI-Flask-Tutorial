@@ -1,7 +1,7 @@
 import openai
 
 # Replace YOUR_API_KEY with your actual OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 def ask_gpt_chat(question, model="gpt-3.5-turbo"):
     try:

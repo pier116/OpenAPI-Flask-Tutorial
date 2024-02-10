@@ -10,6 +10,11 @@ https://www.python.org/downloads/windows/
 
 ## Install OpenAI:
 
+## intall dot-env
+
+pip install python-dotenv
+
+
 ''''
 pip install openai
 ''''

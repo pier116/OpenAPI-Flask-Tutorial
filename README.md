@@ -23,7 +23,9 @@ pip install openai
 
 pip install python-dotenv
 
+# OU AI Discord
 
+https://discord.gg/SV3gxmMR
 
 
 

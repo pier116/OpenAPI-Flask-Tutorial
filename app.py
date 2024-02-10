@@ -13,7 +13,7 @@ class Chatbot:
     def __init__(self, model="gpt-3.5-turbo"):
         self.client = OpenAI()
         self.model = model
-        self.client.api_key = ''
+        self.client.api_key = api_key()
         # Initialize with a system message defining the assistant's role
         self.messages = [
             {"role": "system", "content": "You are a helpful assistant."}
@@ -46,3 +46,58 @@ while True:
         break
     response = chatbot.ask(user_input)
     print("GPT-3.5 says:", response)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

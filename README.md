@@ -10,9 +10,9 @@ https://www.python.org/downloads/windows/
 
 ## Install OpenAI:
 
-'''
+''''
 pip install openai
-'''
+''''
 
 
 
